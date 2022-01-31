@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chulpy
 - 👀 I’m interested in visual and scenic arts & arial circus.
-- 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on my HTML & CSS projects.
 
 <!---
